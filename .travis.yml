@@ -11,3 +11,7 @@ cache:
   directories:
     - $HOME/.jabba/jdk
     - $HOME/.m2
+
+arch:
+  - amd64
+  - ppc64le
